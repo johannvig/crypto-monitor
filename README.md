@@ -16,3 +16,22 @@ Python
 Mot(s)-clé(s):
 
 Crypto-monnaie, altcoin, bitcoin, ethereum
+
+
+
+
+
+Contexte
+De nos jours, il existe une très vaste gamme d'informations exploitables pour construire / inférer des indices financiers pertinents.
+Objectifs :
+L'objectif de ce projet est de permettre à un utilisateur de construire et visualiser, via une interface web, ses propres indices financiers, afin de prendre des décisions.
+
+Un indice est simplement une somme pondérée de facteurs déterminés par l’utilisateur au préalable.
+
+Ces facteurs peuvent correspondre à des données “chiffrées” présentes sur des API (données boursières, Google trends, …), mais aussi à des données textuelles (impliquant ainsi analyse de sentiments, extraction des concepts clefs d’une phrase, etc.) présentes sur les réseaux sociaux.
+
+
+Références bibliographiques
+n/a
+Technologies
+NLP, Python, Docker, autres à définir
